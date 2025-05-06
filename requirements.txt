@@ -1,0 +1,5 @@
+python-whois
+dnspython
+wafw00f
+wappalyzer
+pandas
