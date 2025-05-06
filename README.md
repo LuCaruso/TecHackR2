@@ -1,4 +1,4 @@
-# Documentação Técnica e Manual do Usuário
+# Documentação do Target Recon
 
 ## 1. Visão Geral  
 Este projeto em Python automatiza a fase de reconhecimento em testes de invasão (pentest), reunindo em um único menu interativo as seguintes funcionalidades:  
